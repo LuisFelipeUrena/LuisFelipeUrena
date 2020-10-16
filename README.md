@@ -8,7 +8,7 @@ I'm a 👨‍🔬Data Scientist/ML Engineer who is passionate about writing code
 
 - 📚 I’m currently learning To use Pytorch, Golang and R.
 
--👨‍💻 Technologies i have worked on are: Python, MongoDB, PostgreSQL, FastAPI, Flask, scikit-learn, TensorFlow 2.0, Heroku, AWS BeanStalk.
+- 👨‍💻 Technologies i have worked on are: Python, MongoDB, PostgreSQL, FastAPI, Flask, scikit-learn, TensorFlow 2.0, Heroku, AWS BeanStalk.
 
 - 👯 I’m looking for a Data Science Position. 
 
