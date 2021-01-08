@@ -4,9 +4,9 @@
 
 I'm a 👨‍🔬Data Scientist/ML Engineer who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Data Science Student at Lambda School.
+- 🔭 I’m a Data Science Graduate from Lambda School.
 
-- 📚 I’m currently learning To use Pytorch, Golang and R.
+- 📚 I’m currently learning To use Pytorch, Golang and Solidity.
 
 - 👨‍💻 Technologies i have worked on are: Python, MongoDB, PostgreSQL, FastAPI, Flask, scikit-learn, TensorFlow 2.0, Heroku, AWS BeanStalk.
 
