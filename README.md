@@ -12,6 +12,8 @@ I'm a 👨‍🔬Data Engineer who is passionate about writing code, solving pro
 
 - 👯 I’m looking for a Data Science/ Data engineer Position. 
 
+- 🦾 4+ Years experience in the Healthcare/Insurance Industry.
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luis-urena/) [Gmail](mailto:luisfelipeurena23@gmail.com)
 
 
